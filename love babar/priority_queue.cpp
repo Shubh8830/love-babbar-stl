@@ -20,8 +20,6 @@ int main(){
        maxi.pop();
     
    }cout<<endl;
-
-
    mini.push(3);
    int m= mini.size();
    for(int i=0; i<m;i++){
