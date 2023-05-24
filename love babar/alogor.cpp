@@ -14,6 +14,5 @@ int main() {
     cout<<"Finding 6->"<<binary_search(v.begin(),v.end(),6)<<endl;
 
 cout<<"Lower bound -> "<<lower_bound(v.begin(),v.end(),6)-v.begin()<<endl;
-
 cout<<"Upper bound -> "<<upper_bound(v.begin(),v.end(),4)-v.begin()<<endl; 
 }
