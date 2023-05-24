@@ -23,7 +23,6 @@ int main(){
 
 
    mini.push(3);
-   
    int m= mini.size();
    for(int i=0; i<m;i++){
        cout<<mini.top()<<" ";
