@@ -21,8 +21,5 @@ int main(){
        cout<<mini.top()<<" ";
        mini.pop();
    }cout<<endl;
-
-
-   
    cout<<"empty or not->"<<mini.empty()<<endl;
    }
